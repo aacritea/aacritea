@@ -1,6 +1,6 @@
 # Hi, I'm Aakriti! 🙋🏻‍♀️
 👩🏻‍💻 Data Science Major trying to document my learnings as I go<br>
-🎓 Third Year of studying AI and Data Science at IP University, Delhi<br>
+🎓 Final Year of studying AI and Data Science at IP University, Delhi<br>
 🖥 Diploma Level in IITM's [BS in Data Science and Applications](https://study.iitm.ac.in/ds/)<br>
 🌱 Ex-Research Intern @SAG, DRDO
 🔭 Working on building informative Machine Learning and Data Science Projects<br>
