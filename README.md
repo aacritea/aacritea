@@ -28,4 +28,4 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=aacritea&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=aacritea&show_icons=true&theme=tokyonight" />
