@@ -32,5 +32,9 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
+# 🐍 Contribution Snake
+
+![Snake animation](https://github.com/AACRITEA/AACRITEA/blob/output/github-contribution-grid-snake-dark.svg)
+
 # 📊 GitHub Stats
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aacritea&theme=rose_pine)
