@@ -10,7 +10,6 @@
 🌱 Ex-Research Intern @SAG, DRDO<br>
 🔭 Working on building informative Machine Learning and Data Science Projects<br>
 
-
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
@@ -34,6 +33,5 @@
 
 # 🐍 Contribution Snake
 ![Snake animation](https://github.com/AACRITEA/AACRITEA/blob/output/github-contribution-grid-snake-dark.svg)
-
 # 📊 GitHub Stats
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aacritea&theme=rose_pine)
