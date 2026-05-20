@@ -10,7 +10,7 @@
 🌱 Ex-Research Intern @SAG, DRDO.<br>
 🔭 Working on building informative Machine Learning and Data Science Projects!<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=Learning+to+build+cool+stuff+🧱;Future+Software+Engineer+💻;Coffee+%2B+Code+%3D+Happiness+🥰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=Learning+to+build+cool+stuff+🧱;Future+Data+Scientist+💻;Coffee+%2B+Code+%3D+Happiness+🥰)](https://git.io/typing-svg)
 # 🎧 Coding Playlist
 [![Spotify Playlist](https://img.shields.io/badge/Spotify-Playlist-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/7irxhTnZ7TS0YWzTFOEBRX?si=8145bf52c4954515)
 
