@@ -10,6 +10,8 @@
 🌱 Ex-Research Intern @SAG, DRDO<br>
 🔭 Working on building informative Machine Learning and Data Science Projects<br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=Learning+to+build+cool+stuff+🧱;Future+Software+Engineer+💻;Coffee+%2B+Code+%3D+Happiness+🥰)](https://git.io/typing-svg)
+
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
