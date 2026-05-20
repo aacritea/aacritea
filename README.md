@@ -4,7 +4,7 @@
 </p>
 
 # Hi, I'm Aakriti! 🙋🏻‍♀️
-👩🏻‍💻 Data Science Major trying to document my learnings as I go<br>
+> 👩🏻‍💻 Data Science Major trying to document my learnings as I go<br>
 🎓 Final Year of studying AI and Data Science at IP University, Delhi<br>
 🖥 Diploma Level in IITM's [BS in Data Science and Applications](https://study.iitm.ac.in/ds/)<br>
 🌱 Ex-Research Intern @SAG, DRDO<br>
@@ -33,7 +33,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
 # 🐍 Contribution Snake
-
 ![Snake animation](https://github.com/AACRITEA/AACRITEA/blob/output/github-contribution-grid-snake-dark.svg)
 
 # 📊 GitHub Stats
