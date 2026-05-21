@@ -38,5 +38,6 @@
 <p align="center">
   <img src="https://github.com/AACRITEA/AACRITEA/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 # 📊 GitHub Stats
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aacritea&theme=rose_pine)
